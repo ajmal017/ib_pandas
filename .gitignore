@@ -1,0 +1,7 @@
+scratch/
+pyenv.cfg
+main.spec
+build/
+dist/
+ib_pandas.egg-info/
+*/__pycache__/*
